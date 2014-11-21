@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="p2p-i-web:war">
+    <output-path>$PROJECT_DIR$/fanya-p2p/p2p-i-web/target</output-path>
+    <root id="archive" name="i.war">
+      <element id="artifact" artifact-name="p2p-i-web:war exploded" />
+    </root>
+  </artifact>
+</component>

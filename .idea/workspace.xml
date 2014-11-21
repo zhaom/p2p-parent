@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfc8114f-5cbc-40ed-bee6-1997c2fa1ba6" name="Default" comment="init">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_11_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_curator_curator_client_1_1_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_curator_curator_framework_1_1_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_octo_captcha_jcaptcha_2_0_alpha_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_octo_captcha_jcaptcha_integration_simple_servlet_2_0_alpha_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_spy_spymemcached_2_10_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_ehcache_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_quartz_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_web_velocity_support_0_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_core_1_3_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_taglib_1_3_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_tiles_1_3_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0_beta4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_7_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_2_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensymphony_quartz_quartz_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_4_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__sslext_sslext_1_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/p2p_home_web_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/p2p_home_web_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/p2p_i_web_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/p2p_i_web_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/p2p_user_web_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/p2p_user_web_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <list id="fc6238bf-5917-4741-ae0e-944ce63312bd" name="New changelist" comment="">
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_8_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\libraries\Maven__org_apache_shiro_shiro_core_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\libraries\Maven__org_slf4j_slf4j_api_1_6_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\libraries\Maven__org_springframework_spring_aop_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\libraries\Maven__org_springframework_spring_beans_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\libraries\Maven__org_springframework_spring_context_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\libraries\Maven__org_springframework_spring_core_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\libraries\Maven__org_springframework_spring_expression_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccount.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountBankcard.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountBankcardExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountBankcardExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountBankcardExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountBankcardExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountFlow.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountFlowExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountFlowExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountFlowExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\CapitalAccountFlowExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\Loan.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanAuditFlow.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanAuditFlowExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanAuditFlowExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanAuditFlowExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanAuditFlowExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanInterest.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanInterestExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanInterestExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanInterestExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanInterestExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanInterestFlow.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanInterestFlowExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanInterestFlowExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanInterestFlowExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanInterestFlowExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturn.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnFlow.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnFlowExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnFlowExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnFlowExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnFlowExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnPay.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnPayExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnPayExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnPayExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanReturnPayExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanWarrant.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanWarrantExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanWarrantExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanWarrantExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\LoanWarrantExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\OrderPay.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\OrderPayExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\OrderPayExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\OrderPayExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\OrderPayExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\Package.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\PackageExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\PackageExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\PackageExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\PackageExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\PackageItem.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\PackageItemExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\PackageItemExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\PackageItemExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\PackageItemExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdAuditFlow.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdAuditFlowExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdAuditFlowExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdAuditFlowExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdAuditFlowExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdCollect.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdCollectExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdCollectExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdCollectExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdCollectExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdInterest.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdInterestExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdInterestExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdInterestExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdInterestExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdInterestFlow.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdInterestFlowExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdInterestFlowExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdInterestFlowExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdInterestFlowExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdReturn.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdReturnExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdReturnExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdReturnExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdReturnExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdReturnFlow.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdReturnFlowExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdReturnFlowExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdReturnFlowExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProdReturnFlowExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\Product.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProductExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProductExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProductExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\ProductExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\Recharge.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\RechargeExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\RechargeExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\RechargeExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\RechargeExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysApp.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysAppExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysAppExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysAppExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysAppExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysBiz.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysBizExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysBizExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysBizExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysBizExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysOrganization.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysOrganizationExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysOrganizationExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysOrganizationExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysOrganizationExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysResource$ResourceType.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysResource.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysResourceExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysResourceExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysResourceExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysResourceExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysRole.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysRoleExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysRoleExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysRoleExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysRoleExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUser.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserAppRoles.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserAppRolesExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserAppRolesExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserAppRolesExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserAppRolesExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserIdentification.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserIdentificationExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserIdentificationExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserIdentificationExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserIdentificationExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserSecurity.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserSecurityExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserSecurityExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserSecurityExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\SysUserSecurityExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\UserOrder.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\UserOrderExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\UserOrderExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\UserOrderExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\entity\UserOrderExample.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\AccountBankcardService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\AccountFlowService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\AccountService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\AppService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\AuthorizationService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\BasicServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\BizService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\LoanReturnService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\LoanService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\OrganizationService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\PasswordHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\ProdReturnService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\ProductService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\ResourceService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\RoleService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\SignService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\UserIdentificationService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\UserSecurityService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\service\UserService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\utils\AccountCategaryEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\utils\AccountFlowTypeEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\utils\BankcardTypeEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\utils\CommonState.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\utils\Pagination.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\utils\ServiceResult.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\utils\SignUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\utils\UserIdentificationTypeEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\utils\UserSecurityAuthResultEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\classes\com\fanya\p2p\common\utils\UserSecurityAuthTypeEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-common\p2p-dubbo-service\target\p2p-dubbo-service-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__com_alibaba_druid_1_0_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__com_alibaba_dubbo_2_5_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__com_fanya_p2p_common_p2p_dubbo_service_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__com_github_sgroschupf_zkclient_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__com_google_guava_guava_11_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__com_netflix_curator_curator_client_1_1_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__com_netflix_curator_curator_framework_1_1_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_8_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__io_netty_netty_3_7_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__jline_jline_0_9_94.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__junit_junit_4_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__log4j_log4j_1_2_17.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_25.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__net_spy_spymemcached_2_10_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_apache_commons_commons_pool2_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_apache_shiro_shiro_core_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_aspectj_aspectjrt_1_7_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_7_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_codehaus_jackson_jackson_core_asl_1_8_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_javassist_javassist_3_15_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_mybatis_mybatis_3_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_mybatis_mybatis_spring_1_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_slf4j_slf4j_log4j12_1_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_springframework_spring_aop_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_springframework_spring_beans_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_springframework_spring_context_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_springframework_spring_core_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_springframework_spring_expression_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_springframework_spring_jdbc_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_springframework_spring_test_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_springframework_spring_tx_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_springframework_spring_web_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__org_springframework_spring_webmvc_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\libraries\Maven__redis_clients_jedis_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\com\fanya\p2p\core\account\AccountServiceMain.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\com\fanya\p2p\core\account\dao\CapitalAccountBankcardMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\com\fanya\p2p\core\account\dao\CapitalAccountFlowMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\com\fanya\p2p\core\account\dao\CapitalAccountMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\com\fanya\p2p\core\account\service\AccountBankcardServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\com\fanya\p2p\core\account\service\AccountFlowServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\com\fanya\p2p\core\account\service\AccountServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\config\mappers\CapitalAccountBankcardMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\config\mappers\CapitalAccountFlowMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\config\mappers\CapitalAccountMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\config\mybatis-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\memcached.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\resources.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\spring-config-dubbo-provider.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\account-service\target\classes\spring-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\UserServiceMain.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\dao\SysAppMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\dao\SysBizMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\dao\SysOrganizationMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\dao\SysResourceMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\dao\SysRoleMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\dao\SysUserAppRolesMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\dao\SysUserIdentificationMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\dao\SysUserMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\dao\SysUserSecurityMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\service\AppServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\service\AuthorizationServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\service\BizServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\service\OrganizationServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\service\ResourceServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\service\RoleServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\service\SignServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\service\UserIdentificationServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\service\UserSecurityServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\service\UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\com\fanya\p2p\core\user\spring\SpringUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\config\mappers\SysAppMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\config\mappers\SysBizMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\config\mappers\SysOrganizationMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\config\mappers\SysResourceMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\config\mappers\SysRoleMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\config\mappers\SysUserAppRolesMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\config\mappers\SysUserIdentificationMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\config\mappers\SysUserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\config\mappers\SysUserSecurityMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\config\mybatis-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\memcached.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\resources.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\spring-config-dubbo-consumer.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\spring-config-dubbo-provider.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-core\user-service\target\classes\spring-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\artifacts\p2p_home_web_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\artifacts\p2p_home_web_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\artifacts\p2p_i_web_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\artifacts\p2p_i_web_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\artifacts\p2p_user_web_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\artifacts\p2p_user_web_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__antlr_antlr_2_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__com_alibaba_druid_1_0_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__com_alibaba_dubbo_2_5_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__com_fanya_p2p_common_p2p_dubbo_service_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__com_github_sgroschupf_zkclient_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__com_google_guava_guava_11_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__com_jhlabs_filters_2_0_235.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__com_netflix_curator_curator_client_1_1_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__com_netflix_curator_curator_framework_1_1_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__com_octo_captcha_jcaptcha_2_0_alpha_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__com_octo_captcha_jcaptcha_api_2_0_alpha_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__com_octo_captcha_jcaptcha_integration_simple_servlet_2_0_alpha_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_8_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__commons_chain_commons_chain_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__commons_digester_commons_digester_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__commons_lang_commons_lang_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__commons_logging_commons_logging_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__commons_validator_commons_validator_1_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__dom4j_dom4j_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__io_netty_netty_3_7_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__javax_servlet_jsp_jsp_api_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__javax_servlet_jstl_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__jline_jline_0_9_94.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__junit_junit_4_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__log4j_log4j_1_2_17.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_25.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__net_sf_ehcache_ehcache_core_2_5_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__net_spy_spymemcached_2_10_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_apache_shiro_shiro_core_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_apache_shiro_shiro_ehcache_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_apache_shiro_shiro_quartz_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_apache_shiro_shiro_spring_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_apache_shiro_shiro_web_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_apache_shiro_web_velocity_support_0_0_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_apache_struts_struts_core_1_3_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_apache_struts_struts_taglib_1_3_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_apache_struts_struts_tiles_1_3_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_apache_velocity_velocity_1_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_apache_velocity_velocity_tools_2_0_beta4.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_apache_zookeeper_zookeeper_3_4_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_aspectj_aspectjrt_1_7_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_7_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_javassist_javassist_3_15_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_jboss_netty_netty_3_2_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_opensymphony_quartz_quartz_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_slf4j_slf4j_log4j12_1_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_springframework_spring_aop_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_springframework_spring_beans_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_springframework_spring_context_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_springframework_spring_context_support_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_springframework_spring_core_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_springframework_spring_expression_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_springframework_spring_jdbc_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_springframework_spring_tx_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_springframework_spring_web_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__org_springframework_spring_webmvc_4_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__oro_oro_2_0_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\libraries\Maven__sslext_sslext_1_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\ideaSpace\p2p-parent\fanya-p2p\.idea\workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-core/account-service/account-service.iml" afterPath="$PROJECT_DIR$/fanya-core/account-service/account-service.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-common/fanya-common.iml" afterPath="$PROJECT_DIR$/fanya-common/fanya-common.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-core/fanya-core.iml" afterPath="$PROJECT_DIR$/fanya-core/fanya-core.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-p2p/fanya-p2p.iml" afterPath="$PROJECT_DIR$/fanya-p2p/fanya-p2p.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-core/loan-service/loan-service.iml" afterPath="$PROJECT_DIR$/fanya-core/loan-service/loan-service.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-p2p/p2p-common/p2p-common.iml" afterPath="$PROJECT_DIR$/fanya-p2p/p2p-common/p2p-common.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-common/p2p-dubbo-service/p2p-dubbo-service.iml" afterPath="$PROJECT_DIR$/fanya-common/p2p-dubbo-service/p2p-dubbo-service.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-p2p/p2p-home-web/p2p-home-web.iml" afterPath="$PROJECT_DIR$/fanya-p2p/p2p-home-web/p2p-home-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-p2p/p2p-i-web/p2p-i-web.iml" afterPath="$PROJECT_DIR$/fanya-p2p/p2p-i-web/p2p-i-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-p2p/p2p-user-client-common/p2p-user-client-common.iml" afterPath="$PROJECT_DIR$/fanya-p2p/p2p-user-client-common/p2p-user-client-common.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-p2p/p2p-user-web/p2p-user-web.iml" afterPath="$PROJECT_DIR$/fanya-p2p/p2p-user-web/p2p-user-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-core/prod-service/prod-service.iml" afterPath="$PROJECT_DIR$/fanya-core/prod-service/prod-service.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-core/trade-service/trade-service.iml" afterPath="$PROJECT_DIR$/fanya-core/trade-service/trade-service.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fanya-core/user-service/user-service.iml" afterPath="$PROJECT_DIR$/fanya-core/user-service/user-service.iml" />
+    </list>
+    <ignored path="p2p-parent.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/fanya-p2p/p2p-home-web/target/" />
+    <ignored path="$PROJECT_DIR$/fanya-core/account-service/target/" />
+    <ignored path="$PROJECT_DIR$/fanya-core/trade-service/target/" />
+    <ignored path="$PROJECT_DIR$/fanya-core/target/" />
+    <ignored path="$PROJECT_DIR$/fanya-common/p2p-dubbo-service/target/" />
+    <ignored path="$PROJECT_DIR$/fanya-common/target/" />
+    <ignored path="$PROJECT_DIR$/fanya-p2p/target/" />
+    <ignored path="$PROJECT_DIR$/fanya-core/user-service/target/" />
+    <ignored path="$PROJECT_DIR$/fanya-core/loan-service/target/" />
+    <ignored path="$PROJECT_DIR$/fanya-core/prod-service/target/" />
+    <ignored path="$PROJECT_DIR$/fanya-p2p/p2p-i-web/target/" />
+    <ignored path="$PROJECT_DIR$/fanya-p2p/p2p-user-web/target/" />
+    <ignored path="$PROJECT_DIR$/fanya-p2p/p2p-common/target/" />
+    <ignored path="$PROJECT_DIR$/fanya-p2p/p2p-user-client-common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="p2p-parent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33333334" vertical-offset="0" max-vertical-offset="570">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\apache-maven-3.2.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p2p-parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p2p-parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p2p-parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfc8114f-5cbc-40ed-bee6-1997c2fa1ba6" name="Default" comment="" />
+      <changelist id="fc6238bf-5917-4741-ae0e-944ce63312bd" name="New changelist" comment="" />
+      <created>1416548246109</created>
+      <option name="number" value="Default" />
+      <updated>1416548246109</updated>
+      <workItem from="1416548253408" duration="1857000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1416549129737</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1416549129737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1857000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5375817" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928678" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2254902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35811836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fanya-common/p2p-dubbo-service/src/main/java/com/fanya/p2p/common/entity/CapitalAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20596206" vertical-offset="0" max-vertical-offset="6213">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="0" max-vertical-offset="570">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

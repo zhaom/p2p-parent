@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fanya-core/account-service/account-service.iml" filepath="$PROJECT_DIR$/fanya-core/account-service/account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanya-common/fanya-common.iml" filepath="$PROJECT_DIR$/fanya-common/fanya-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanya-core/fanya-core.iml" filepath="$PROJECT_DIR$/fanya-core/fanya-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanya-p2p/fanya-p2p.iml" filepath="$PROJECT_DIR$/fanya-p2p/fanya-p2p.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanya-core/loan-service/loan-service.iml" filepath="$PROJECT_DIR$/fanya-core/loan-service/loan-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanya-p2p/p2p-common/p2p-common.iml" filepath="$PROJECT_DIR$/fanya-p2p/p2p-common/p2p-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanya-common/p2p-dubbo-service/p2p-dubbo-service.iml" filepath="$PROJECT_DIR$/fanya-common/p2p-dubbo-service/p2p-dubbo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanya-p2p/p2p-home-web/p2p-home-web.iml" filepath="$PROJECT_DIR$/fanya-p2p/p2p-home-web/p2p-home-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanya-p2p/p2p-i-web/p2p-i-web.iml" filepath="$PROJECT_DIR$/fanya-p2p/p2p-i-web/p2p-i-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-parent.iml" filepath="$PROJECT_DIR$/p2p-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanya-p2p/p2p-user-client-common/p2p-user-client-common.iml" filepath="$PROJECT_DIR$/fanya-p2p/p2p-user-client-common/p2p-user-client-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanya-p2p/p2p-user-web/p2p-user-web.iml" filepath="$PROJECT_DIR$/fanya-p2p/p2p-user-web/p2p-user-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanya-core/prod-service/prod-service.iml" filepath="$PROJECT_DIR$/fanya-core/prod-service/prod-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanya-core/trade-service/trade-service.iml" filepath="$PROJECT_DIR$/fanya-core/trade-service/trade-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanya-core/user-service/user-service.iml" filepath="$PROJECT_DIR$/fanya-core/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>

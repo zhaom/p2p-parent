@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/fanya-core/user-service/target/classes/spring-config-dubbo-provider.xml</file>
+          <file>file://$MODULE_DIR$/fanya-core/user-service/target/classes/spring-config.xml</file>
+          <file>file://$MODULE_DIR$/fanya-core/user-service/target/classes/spring-config-dubbo-consumer.xml</file>
+          <file>file://$MODULE_DIR$/fanya-core/user-service/src/main/resources/spring-config-dubbo-consumer.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-user-web/src/main/resources/development/spring-config-dubbo-consumer.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-user-web/src/main/resources/development/spring-mvc-shiro.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-home-web/src/main/resources/development/spring-mvc.xml</file>
+          <file>file://$MODULE_DIR$/fanya-core/loan-service/src/main/resources/spring-config-dubbo-provider.xml</file>
+          <file>file://$MODULE_DIR$/fanya-core/account-service/target/classes/spring-config-dubbo-provider.xml</file>
+          <file>file://$MODULE_DIR$/fanya-core/loan-service/src/main/resources/spring-config.xml</file>
+          <file>file://$MODULE_DIR$/fanya-core/account-service/target/classes/spring-config.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-user-web/src/main/resources/development/spring-config-shiro.xml</file>
+          <file>file://$MODULE_DIR$/fanya-core/account-service/src/main/resources/spring-config.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-i-web/src/main/resources/development/spring-mvc.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-user-web/src/main/resources/development/spring-mvc.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-user-web/src/main/resources/development/spring-config-mysql.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-user-web/src/main/resources/development/spring-mvc-remote-service.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-user-client-common/src/main/resources/development/spring-client-remote-service.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-user-client-common/src/main/resources/development/spring-client-shiro.xml</file>
+          <file>file://$MODULE_DIR$/fanya-core/user-service/src/main/resources/spring-config-dubbo-provider.xml</file>
+          <file>file://$MODULE_DIR$/fanya-core/loan-service/target/classes/spring-config-dubbo-provider.xml</file>
+          <file>file://$MODULE_DIR$/fanya-core/account-service/src/main/resources/spring-config-dubbo-provider.xml</file>
+          <file>file://$MODULE_DIR$/fanya-core/loan-service/target/classes/spring-config.xml</file>
+          <file>file://$MODULE_DIR$/fanya-core/user-service/src/main/resources/spring-config.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-i-web/src/main/resources/development/spring-config.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-i-web/src/main/resources/development/spring-config-dubbo-consumer.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-user-web/src/main/resources/development/spring-config.xml</file>
+          <file>file://$MODULE_DIR$/fanya-p2p/p2p-user-client-common/src/main/resources/development/spring-client.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/fanya-p2p/p2p-home-web/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/fanya-p2p/p2p-home-web/src/main/webapp" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+          <root url="file://$MODULE_DIR$/src/main/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/fanya-p2p/p2p-i-web/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/fanya-p2p/p2p-i-web/src/main/webapp" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+          <root url="file://$MODULE_DIR$/src/main/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/fanya-p2p/p2p-user-web/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/fanya-p2p/p2p-user-web/src/main/webapp" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+          <root url="file://$MODULE_DIR$/src/main/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

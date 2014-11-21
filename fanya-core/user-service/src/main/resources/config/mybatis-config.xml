@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.2//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<settings>
+		<setting name="cacheEnabled" value="false" />
+		<!--setting name="lazyLoadingEnabled" value="true" /-->
+		<setting name="multipleResultSetsEnabled" value="true" />
+		<setting name="useColumnLabel" value="true" />
+		<setting name="useGeneratedKeys" value="false" />
+		<setting name="defaultExecutorType" value="SIMPLE" />
+	</settings>
+
+	<typeAliases>
+		<typeAlias alias="sysUser" type="com.fanya.p2p.common.entity.SysUser" />
+        <typeAlias alias="sysApp" type="com.fanya.p2p.common.entity.SysApp"/>
+        <typeAlias alias="sysOrganization" type="com.fanya.p2p.common.entity.SysOrganization"/>
+        <typeAlias alias="sysResource" type="com.fanya.p2p.common.entity.SysResource"/>
+        <typeAlias alias="sysRole" type="com.fanya.p2p.common.entity.SysRole"/>
+        <typeAlias alias="sysUserAppRoles" type="com.fanya.p2p.common.entity.SysUserAppRoles"/>
+	</typeAliases>
+</configuration>
